@@ -4,7 +4,7 @@
 *有问题可以联系我
 *\(  ͯω  ͯ)/
 */
-<?php
+
 
 
 function colorText($text, $colorCode) {
